@@ -4,7 +4,7 @@
 
 As a Passionate developer, I know HTML, CSS, JAVASCRIPT, REACT JS, EXPRESS JS, and MongoDB, and I am familiar with Node js I also have experience with many tools like GitHub, Figma and many others. I always try to make myself updated with new technology
 
-Skills:  REACT / JS / HTML / CSS/EXPRESS JS
+Skills:  REACT / JS / HTML / CSS/ EXPRESS JS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning REDUX 
