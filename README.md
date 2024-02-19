@@ -5,9 +5,5 @@ As a Passionate developer, I know HTML, CSS, JAVASCRIPT, REACT JS, EXPRESS JS, a
 
 Skills:  REACT.JS / JS / HTML / CSS/ EXPRESS JS / Next.js / MongoDB / Node.js / REDUX
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning REDUX 
-- 💬 Ask me about Web Developing  
-
 
 
