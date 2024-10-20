@@ -1,6 +1,7 @@
+<img src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif" width='1200px' alt="Banner" />
+
 # Hi there 👋, my name is Saikat Roy Chandan
 ## Welcome to my GitHub Profile 
-
 I'm a Full Stack Developer who thrives on coding and the exciting challenges that come with it. Whether it's cracking a tough problem or finding a new way to make things awesome, I'm always up for the adventure. Here, you'll find a showcase of my projects, from sleek user interfaces to dynamic backend solutions. I'm all about making cool stuff and having fun while doing it. Join me in my coding journey as I keep learning, growing, and creating next-level things. Let's build something amazing and have a blast along the way! 🚀✨
 
 ## These Are The skill sets That I am comfortable with 🦾😉
