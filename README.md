@@ -13,7 +13,8 @@ I'm a Full Stack Developer who thrives on coding and the exciting challenges tha
 |---------|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SAIKOT-ROY&theme=tokyonight-duo&hide_border=true&border_radius=4&card_height=170&type=png)](https://git.io/streak-stats) |
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saikatroy&theme=dracula&show_icons=true&card_width=400)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saikot-roy&theme=dracula&show_icons=true&card_width=400)
+
 
 #### I am always eager to learn and keep myself busy with new technologies. Please feel free to visit my projects and share your feedback. I would really appreciate it!
 
