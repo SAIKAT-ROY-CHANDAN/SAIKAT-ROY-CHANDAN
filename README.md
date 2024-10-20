@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/47/20/51/472051c6d88bd2837525520597251d67.gif" width='1200px' alt="Banner" />
+<img src="https://perquis-com.vercel.app/_next/image?url=%2Fimages%2Fthumbnail.gif&w=3840&q=75" width='1200px' alt="Banner" />
 
 # Hi there 👋, my name is Saikat Roy Chandan
 ## Welcome to my GitHub Profile 
