@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/03/87/40/0387407fd297b3f3187d4644f01bc678.jpg" width='800px' alt="Banner" />
+<img src="https://i.pinimg.com/1200x/77/83/4e/77834e1d5c2cbf74414dd64c23fb283e.jpg" width='800px' alt="Banner" />
 
 # Hi there 👋, my name is Saikat Roy Chandan
 ## Welcome to my GitHub Profile 
