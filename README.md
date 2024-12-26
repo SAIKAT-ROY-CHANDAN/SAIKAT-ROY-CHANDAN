@@ -11,11 +11,18 @@ Contact Me: saiktoroydev@gmail.com
 
 
 
-|         |
-|---------|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SAIKAT-ROY-CHANDAN&theme=tokyonight-duo&hide_border=true&border_radius=4&card_height=170&type=png)](https://git.io/streak-stats) |
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saikAt-roy-chandan&theme=dracula&show_icons=true&card_width=400)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SAIKAT-ROY-CHANDAN&theme=tokyonight-duo&hide_border=true&border_radius=4&card_height=200&type=png" width="500" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saikAt-roy-chandan&show_icons=true&bg_color=0d1117&title_color=8a2be2&text_color=cccccc&icon_color=8a2be2&card_width=400&hide_border=true" alt="Your GitHub stats" />
+</p>
+
+
 
 
 #### I am always eager to learn and keep myself busy with new technologies. Please feel free to visit my projects and share your feedback. I would really appreciate it!
